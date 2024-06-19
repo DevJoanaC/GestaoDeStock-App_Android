@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\Cesae\\Videos\\gradle-8.7\\daemon\\8.4\\com.example.trabalhoprtico_joanacardoso.app-mergeDebugResources-3:\\layout\\activity_produto.xml",
+        "source": "C:\\Users\\Cesae\\Videos\\gradle-8.7\\daemon\\8.4\\com.example.trabalhoprtico_joanacardoso.app-main-6:\\layout\\activity_produto.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesae\\Videos\\gradle-8.7\\daemon\\8.4\\com.example.trabalhoprtico_joanacardoso.app-mergeDebugResources-3:\\layout\\activity_novo_produto.xml",
+        "source": "C:\\Users\\Cesae\\Videos\\gradle-8.7\\daemon\\8.4\\com.example.trabalhoprtico_joanacardoso.app-main-6:\\layout\\activity_novo_produto.xml"
+    },
+    {
+        "merged": "com.example.trabalhoprtico_joanacardoso.app-mergeDebugResources-3:/layout/activity_registar_produto.xml",
+        "source": "com.example.trabalhoprtico_joanacardoso.app-main-6:/layout/activity_registar_produto.xml"
+    },
+    {
+        "merged": "com.example.trabalhoprtico_joanacardoso.app-mergeDebugResources-3:/layout/activity_novo_produto.xml",
+        "source": "com.example.trabalhoprtico_joanacardoso.app-main-6:/layout/activity_novo_produto.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesae\\Videos\\gradle-8.7\\daemon\\8.4\\com.example.trabalhoprtico_joanacardoso.app-mergeDebugResources-3:\\layout\\activity_registar_produto.xml",
+        "source": "C:\\Users\\Cesae\\Videos\\gradle-8.7\\daemon\\8.4\\com.example.trabalhoprtico_joanacardoso.app-main-6:\\layout\\activity_registar_produto.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesae\\Videos\\gradle-8.7\\daemon\\8.4\\com.example.trabalhoprtico_joanacardoso.app-mergeDebugResources-3:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\Cesae\\Videos\\gradle-8.7\\daemon\\8.4\\com.example.trabalhoprtico_joanacardoso.app-main-6:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesae\\Videos\\gradle-8.7\\daemon\\8.4\\com.example.trabalhoprtico_joanacardoso.app-mergeDebugResources-3:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Cesae\\Videos\\gradle-8.7\\daemon\\8.4\\com.example.trabalhoprtico_joanacardoso.app-main-6:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesae\\Videos\\gradle-8.7\\daemon\\8.4\\com.example.trabalhoprtico_joanacardoso.app-mergeDebugResources-3:\\layout\\activity_splash_screen.xml",
+        "source": "C:\\Users\\Cesae\\Videos\\gradle-8.7\\daemon\\8.4\\com.example.trabalhoprtico_joanacardoso.app-main-6:\\layout\\activity_splash_screen.xml"
+    }
+]

@@ -1,0 +1,134 @@
+[
+    {
+        "merged": "C:\\Users\\Cesae\\Videos\\gradle-8.7\\daemon\\8.4\\com.example.trabalhoprtico_joanacardoso.app-debug-4:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Cesae\\Videos\\gradle-8.7\\daemon\\8.4\\com.example.trabalhoprtico_joanacardoso.app-main-6:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesae\\Videos\\gradle-8.7\\daemon\\8.4\\com.example.trabalhoprtico_joanacardoso.app-debug-4:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Cesae\\Videos\\gradle-8.7\\daemon\\8.4\\com.example.trabalhoprtico_joanacardoso.app-main-6:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Cesae\\Videos\\gradle-8.7\\daemon\\8.4\\com.example.trabalhoprtico_joanacardoso.app-debug-4:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Cesae\\Videos\\gradle-8.7\\daemon\\8.4\\com.example.trabalhoprtico_joanacardoso.app-main-6:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Cesae\\Videos\\gradle-8.7\\daemon\\8.4\\com.example.trabalhoprtico_joanacardoso.app-debug-4:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Cesae\\Videos\\gradle-8.7\\daemon\\8.4\\com.example.trabalhoprtico_joanacardoso.app-main-6:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Cesae\\Videos\\gradle-8.7\\daemon\\8.4\\com.example.trabalhoprtico_joanacardoso.app-debug-4:\\layout_activity_novo_produto.xml.flat",
+        "source": "C:\\Users\\Cesae\\Videos\\gradle-8.7\\daemon\\8.4\\com.example.trabalhoprtico_joanacardoso.app-main-6:\\layout\\activity_novo_produto.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesae\\Videos\\gradle-8.7\\daemon\\8.4\\com.example.trabalhoprtico_joanacardoso.app-debug-4:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Cesae\\Videos\\gradle-8.7\\daemon\\8.4\\com.example.trabalhoprtico_joanacardoso.app-main-6:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesae\\Videos\\gradle-8.7\\daemon\\8.4\\com.example.trabalhoprtico_joanacardoso.app-debug-4:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Cesae\\Videos\\gradle-8.7\\daemon\\8.4\\com.example.trabalhoprtico_joanacardoso.app-main-6:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Cesae\\Videos\\gradle-8.7\\daemon\\8.4\\com.example.trabalhoprtico_joanacardoso.app-debug-4:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Cesae\\Videos\\gradle-8.7\\daemon\\8.4\\com.example.trabalhoprtico_joanacardoso.app-main-6:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesae\\Videos\\gradle-8.7\\daemon\\8.4\\com.example.trabalhoprtico_joanacardoso.app-debug-4:\\drawable_logotipo2.png.flat",
+        "source": "C:\\Users\\Cesae\\Videos\\gradle-8.7\\daemon\\8.4\\com.example.trabalhoprtico_joanacardoso.app-main-6:\\drawable\\logotipo2.png"
+    },
+    {
+        "merged": "C:\\Users\\Cesae\\Videos\\gradle-8.7\\daemon\\8.4\\com.example.trabalhoprtico_joanacardoso.app-debug-4:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Cesae\\Videos\\gradle-8.7\\daemon\\8.4\\com.example.trabalhoprtico_joanacardoso.app-main-6:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesae\\Videos\\gradle-8.7\\daemon\\8.4\\com.example.trabalhoprtico_joanacardoso.app-debug-4:\\drawable_logotipo.png.flat",
+        "source": "C:\\Users\\Cesae\\Videos\\gradle-8.7\\daemon\\8.4\\com.example.trabalhoprtico_joanacardoso.app-main-6:\\drawable\\logotipo.png"
+    },
+    {
+        "merged": "C:\\Users\\Cesae\\Videos\\gradle-8.7\\daemon\\8.4\\com.example.trabalhoprtico_joanacardoso.app-debug-4:\\layout_activity_splash_screen.xml.flat",
+        "source": "C:\\Users\\Cesae\\Videos\\gradle-8.7\\daemon\\8.4\\com.example.trabalhoprtico_joanacardoso.app-main-6:\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesae\\Videos\\gradle-8.7\\daemon\\8.4\\com.example.trabalhoprtico_joanacardoso.app-debug-4:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Cesae\\Videos\\gradle-8.7\\daemon\\8.4\\com.example.trabalhoprtico_joanacardoso.app-main-6:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesae\\Videos\\gradle-8.7\\daemon\\8.4\\com.example.trabalhoprtico_joanacardoso.app-debug-4:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Cesae\\Videos\\gradle-8.7\\daemon\\8.4\\com.example.trabalhoprtico_joanacardoso.app-main-6:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Cesae\\Videos\\gradle-8.7\\daemon\\8.4\\com.example.trabalhoprtico_joanacardoso.app-debug-4:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Cesae\\Videos\\gradle-8.7\\daemon\\8.4\\com.example.trabalhoprtico_joanacardoso.app-main-6:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Cesae\\Videos\\gradle-8.7\\daemon\\8.4\\com.example.trabalhoprtico_joanacardoso.app-debug-4:\\drawable_background.png.flat",
+        "source": "C:\\Users\\Cesae\\Videos\\gradle-8.7\\daemon\\8.4\\com.example.trabalhoprtico_joanacardoso.app-main-6:\\drawable\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\Cesae\\Videos\\gradle-8.7\\daemon\\8.4\\com.example.trabalhoprtico_joanacardoso.app-debug-4:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Cesae\\Videos\\gradle-8.7\\daemon\\8.4\\com.example.trabalhoprtico_joanacardoso.app-main-6:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesae\\Videos\\gradle-8.7\\daemon\\8.4\\com.example.trabalhoprtico_joanacardoso.app-debug-4:\\mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Cesae\\Videos\\gradle-8.7\\daemon\\8.4\\com.example.trabalhoprtico_joanacardoso.app-main-6:\\mipmap-mdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Cesae\\Videos\\gradle-8.7\\daemon\\8.4\\com.example.trabalhoprtico_joanacardoso.app-debug-4:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Cesae\\Videos\\gradle-8.7\\daemon\\8.4\\com.example.trabalhoprtico_joanacardoso.app-main-6:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Cesae\\Videos\\gradle-8.7\\daemon\\8.4\\com.example.trabalhoprtico_joanacardoso.app-debug-4:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Cesae\\Videos\\gradle-8.7\\daemon\\8.4\\com.example.trabalhoprtico_joanacardoso.app-main-6:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Cesae\\Videos\\gradle-8.7\\daemon\\8.4\\com.example.trabalhoprtico_joanacardoso.app-debug-4:\\mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Cesae\\Videos\\gradle-8.7\\daemon\\8.4\\com.example.trabalhoprtico_joanacardoso.app-main-6:\\mipmap-xxxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.trabalhoprtico_joanacardoso.app-debug-4:/layout_activity_novo_produto.xml.flat",
+        "source": "com.example.trabalhoprtico_joanacardoso.app-main-6:/layout/activity_novo_produto.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesae\\Videos\\gradle-8.7\\daemon\\8.4\\com.example.trabalhoprtico_joanacardoso.app-debug-4:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Cesae\\Videos\\gradle-8.7\\daemon\\8.4\\com.example.trabalhoprtico_joanacardoso.app-main-6:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesae\\Videos\\gradle-8.7\\daemon\\8.4\\com.example.trabalhoprtico_joanacardoso.app-debug-4:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Cesae\\Videos\\gradle-8.7\\daemon\\8.4\\com.example.trabalhoprtico_joanacardoso.app-main-6:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Cesae\\Videos\\gradle-8.7\\daemon\\8.4\\com.example.trabalhoprtico_joanacardoso.app-debug-4:\\mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Cesae\\Videos\\gradle-8.7\\daemon\\8.4\\com.example.trabalhoprtico_joanacardoso.app-main-6:\\mipmap-xxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Cesae\\Videos\\gradle-8.7\\daemon\\8.4\\com.example.trabalhoprtico_joanacardoso.app-debug-4:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Cesae\\Videos\\gradle-8.7\\daemon\\8.4\\com.example.trabalhoprtico_joanacardoso.app-main-6:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Cesae\\Videos\\gradle-8.7\\daemon\\8.4\\com.example.trabalhoprtico_joanacardoso.app-debug-4:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Cesae\\Videos\\gradle-8.7\\daemon\\8.4\\com.example.trabalhoprtico_joanacardoso.app-main-6:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesae\\Videos\\gradle-8.7\\daemon\\8.4\\com.example.trabalhoprtico_joanacardoso.app-debug-4:\\layout_activity_registar_produto.xml.flat",
+        "source": "C:\\Users\\Cesae\\Videos\\gradle-8.7\\daemon\\8.4\\com.example.trabalhoprtico_joanacardoso.app-main-6:\\layout\\activity_registar_produto.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesae\\Videos\\gradle-8.7\\daemon\\8.4\\com.example.trabalhoprtico_joanacardoso.app-debug-4:\\mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Cesae\\Videos\\gradle-8.7\\daemon\\8.4\\com.example.trabalhoprtico_joanacardoso.app-main-6:\\mipmap-xhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.trabalhoprtico_joanacardoso.app-debug-4:/layout_activity_registar_produto.xml.flat",
+        "source": "com.example.trabalhoprtico_joanacardoso.app-main-6:/layout/activity_registar_produto.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesae\\Videos\\gradle-8.7\\daemon\\8.4\\com.example.trabalhoprtico_joanacardoso.app-debug-4:\\layout_activity_produto.xml.flat",
+        "source": "C:\\Users\\Cesae\\Videos\\gradle-8.7\\daemon\\8.4\\com.example.trabalhoprtico_joanacardoso.app-main-6:\\layout\\activity_produto.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesae\\Videos\\gradle-8.7\\daemon\\8.4\\com.example.trabalhoprtico_joanacardoso.app-debug-4:\\drawable_background2.png.flat",
+        "source": "C:\\Users\\Cesae\\Videos\\gradle-8.7\\daemon\\8.4\\com.example.trabalhoprtico_joanacardoso.app-main-6:\\drawable\\background2.png"
+    },
+    {
+        "merged": "C:\\Users\\Cesae\\Videos\\gradle-8.7\\daemon\\8.4\\com.example.trabalhoprtico_joanacardoso.app-debug-4:\\mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Cesae\\Videos\\gradle-8.7\\daemon\\8.4\\com.example.trabalhoprtico_joanacardoso.app-main-6:\\mipmap-hdpi\\ic_launcher_foreground.webp"
+    }
+]

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity"
+    android:gravity="center"
+    android:background="@drawable/background2">
+
+
+    <ImageView
+        android:layout_width="321dp"
+        android:layout_height="210dp"
+        app:srcCompat="@drawable/logotipo"/>
+
+    <TextView
+        android:layout_width="260dp"
+        android:layout_height="55dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="0dp"
+        android:gravity="center"
+        android:text="Preencha o seu username e password para continuar"
+        android:textSize="15sp"/>
+
+    <EditText
+        android:id="@+id/username"
+        android:layout_width="260dp"
+        android:layout_height="60dp"
+        android:hint="Username"
+        android:textSize="15sp" />
+
+    <EditText
+        android:id="@+id/password"
+        android:layout_width="260dp"
+        android:layout_height="60dp"
+        android:hint="Password"
+        android:inputType="textPassword"
+        android:textSize="15sp" />
+
+    <Button
+        android:id="@+id/entrar"
+        android:layout_width="130dp"
+        android:layout_height="50dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="20dp"
+        android:backgroundTint="#CBAE83"
+        android:textSize="18sp"
+        android:text="Entrar" />
+
+
+</LinearLayout>

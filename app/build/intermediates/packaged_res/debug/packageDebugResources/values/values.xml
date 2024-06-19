@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Trabalho Prático - Joana Cardoso</string>
+    <style name="Base.Theme.TrabalhoPráticoJoanaCardoso" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.TrabalhoPráticoJoanaCardoso" parent="Base.Theme.TrabalhoPráticoJoanaCardoso"/>
+</resources>
