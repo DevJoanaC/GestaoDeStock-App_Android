@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background2"
+    android:orientation="vertical"
+    tools:context=".RegistarProdutoActivity"
+    android:gravity="center">
+
+    <TextView
+        android:layout_width="212dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="Dados do Produto"
+        android:gravity="center"
+        android:textSize="30sp"
+        android:fontFamily="serif"/>
+
+    <TextView
+        android:id="@+id/nome_produto"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30sp"
+        android:fontFamily="serif"
+        android:textColor="@color/black"
+        android:layout_marginLeft="30sp"
+        android:layout_marginRight="30sp"
+        android:textSize="20dp" />
+
+    <TextView
+        android:id="@+id/codigo_produto"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="serif"
+        android:textColor="@color/black"
+        android:layout_marginLeft="30sp"
+        android:layout_marginRight="30sp"
+        android:textSize="20dp"/>
+
+    <TextView
+        android:id="@+id/categoria_produto"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="serif"
+        android:textColor="@color/black"
+        android:layout_marginLeft="30sp"
+        android:layout_marginRight="30sp"
+        android:textSize="20dp"/>
+
+    <Button
+        android:layout_marginTop="30sp"
+        android:id="@+id/confirmar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="Confirmar"
+        android:backgroundTint="#CBAE83"
+        />
+
+    <Button
+        android:id="@+id/cancelar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="Cancelar"
+        android:backgroundTint="#CBAE83"
+        />
+
+</LinearLayout>
